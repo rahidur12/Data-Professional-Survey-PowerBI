@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that provides actionable insights into the global Data Professional landscape, analyzing trends in average salary, job title distribution, programming language preferences, and work-life/salary satisfaction across different countries.
 
-📌 Drive Link: [Insert your Google Drive link here]
+📌 Drive Link: https://drive.google.com/drive/folders/1PSCPlmLk9SY0gsWav8ctw7OXtdveHMcf?usp=sharing
 
 🧠 Project Overview
 This project focuses on building a powerful Data Professional Survey Dashboard using Power BI for visualization and analysis. The dashboard is designed to give stakeholders a clear, data-driven overview of the Data Science and Analytics community's current trends and key metrics through interactive visualizations.
